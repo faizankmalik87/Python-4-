@@ -1,1 +1,1 @@
-Python Scripts for System Admins to aautomate repetative task.
+Scripts for System Admins to automate redundant tasks
